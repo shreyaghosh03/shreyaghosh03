@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya Ghosh
 - 👀 I’m interested in Web Development, Machine Learning and Open-Source Programs
 - 🌱 I’m currently exploring web dev and making projects and sharpening my dsa skills
-- 📫 How to reach me email: shreyaghosh14912@gmail.com
+- 📫 How to reach me : shreyaghosh14912@gmail.com
 - ⚡ Fun fact: I am a huge nerd with a bachbencher personality
